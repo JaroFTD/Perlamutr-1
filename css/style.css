@@ -787,6 +787,14 @@ body._lock {
   border: 0.125rem solid red;
 }
 
+.yellow {
+  fill: #ffd9a3;
+}
+
+.blue {
+  fill: #5e84a5;
+}
+
 .header {
   position: fixed;
   width: 100%;
